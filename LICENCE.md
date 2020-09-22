@@ -1,6 +1,6 @@
 ▼利用規約
 ツクラー・コモンズ・ブルー・ライセンス
-https://tklercommons.tk/tkcm-b-summary
+https://tkler.materialcommons.org/tkcm-b-summary
 
 必要ツクール：RPGツクールMZ
 ※ツクールシリーズではないツールでの利用は禁止されています。
